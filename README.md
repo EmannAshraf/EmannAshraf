@@ -2,7 +2,7 @@
 
 
 
-<img src="c:\Users\Eman Ashraf\Desktop\images.jpg" align="right" width="25%"/>
+<img src="images.jpg" align="right" width="25%"/>
 
 <p align="left">
 👨‍💻 **About Me:**
